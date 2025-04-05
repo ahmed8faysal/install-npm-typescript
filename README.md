@@ -2,6 +2,15 @@
 
 This repository provides step-by-step instructions on how to download and install npm (Node Package Manager) and the TypeScript compiler `tsc` on Windows, macOS, and Linux operating systems.
 
+<p align="center">
+  <a href="https://www.npmjs.com/">
+    <img src="images/npm-logo-red.svg" alt="npm Logo" width="200" height="200">
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="images/Node.js_logo.svg" alt="Node.js Logo" width="200" height="200">
+  </a>
+</p>
+
 ## Introduction
 
 npm is a package manager for Node.js and is essential for installing various JavaScript and TypeScript tools, including the TypeScript compiler. TypeScript is a superset of JavaScript that adds static typing to the language. To run TypeScript code, you need to compile it into JavaScript using the `tsc` compiler.
